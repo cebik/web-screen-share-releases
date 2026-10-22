@@ -29,7 +29,7 @@ zostaje w folderze jako `WebScreenShare-<wersja>-<data>.exe.old` — powrót to 
 ## Pliki w paczce
 
 `WebScreenShare.exe`, `settings.ini` (ustawienia; edytowalne), `CHANGELOG-user.txt` (co nowego),
-`AI-GUIDE.md` (opis wszystkich opcji, także dla asystentów AI).
+`HELP.md` (opis wszystkich opcji, także dla asystentów AI).
 
 ## Weryfikacja paczki
 
